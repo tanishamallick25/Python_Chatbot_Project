@@ -1,0 +1,27 @@
+{
+    "hi": ["Hey!", "chatbot_icon1.png"],
+    "hello": ["Hi there! How can I help you?", "chatbot_icon1.png"],
+    "how you": ["I'm just a computer program, but thanks for asking!", "chatbot_icon1.png"],
+    "your name": ["I'm a chatbot, so I don't have a name. You can call me Chatbot!", "chatbot_icon1.png"],
+    "fee bca": ["The fees in BCA right now is around 3.5 lakhs", "chatbot_icon1.png"],
+    "course name": ["Bachelors Of Computer Application", "chatbot_icon1.png"],
+    "about bca": ["BCA is a computer application course", "chatbot_icon1.png"],
+    "where sit": ["Siliguri Institute Of Technology is located in Salbari, Sukna", "chatbot_icon1.png"],
+    "i love you": ["I love you too user!", "chatbot_icon1.png"],
+    "eligiblity criteria": ["Compilation of 10+2 from a recognized board","chatbot_icon1.png"],
+    "minimum percentage": ["The minimal requirement for BCA eligibility is 50% marks in a 10+2 of equivalent exam with computer application or computer science or maths as an extra or core subject","chatbot_icon1.png"],
+    "course duration": ["4 years","chatbot_icon1.png"],
+    "subjects": ["Programming languages, data structures, Python, statistics, DBMS, and computer networks","chatbot_icon1.png"],
+    "career options": ["Software developer, Database Administrator, System Analyst, web developer, IT Consultant, Network Administrator","chatbot_icon1.png"],
+    "average salary": ["INR 3-5 LPA","chatbot_icon1.png"],
+    "entrance exams": ["It depends on the university","chatbot_icon1.png"],
+    "companies": ["IT Services: TCS, Infosys, Wipro, Cognizant","chatbot_icon1.png"],
+    "project ideas": ["It depends on the university","chatbot_icon1.png"],
+    "good morning": ["Good morning! How can I assist you today?","chatbot_icon1.png"],
+    "joke": ["Why don't scientists trust atoms? Because they make up everything!","chatbot_icon1.png"],
+    "suggest books": ["Computer Fundamentals - by P.K. Sinha, Introduction to Algorithm - by Thomas H. Cormen, Charles E. Leiserson","chatbot_icon1.png"],
+    "good afternoon": ["Good afternoon! Halfway through the day already!","chatbot_icon1.png"],
+    "good evening": ["Good evening!  Hope you're having a fabulous day so far! What's on your mind?","chatbot_icon1.png"],
+    "good night": ["Good night!  Sweet dreams and see you bright and early tomorrow!","chatbot_icon1.png"]
+    
+}
